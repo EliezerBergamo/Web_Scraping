@@ -50,15 +50,6 @@
   </p>
   </div>
 
-   <div>
-    <h2>Features</h2>
-    <p>The main features of the application are:</p>
-    <ul>
-      <li>Create tasks to your day/li>
-      <li>Complete, delete or recovery the taks</li>
-    </ul>
-  </div>
-
   <div>
     <h2>How to use</h2>
     <h3>1 - Just open the project in an IDE or text editor, and after thar, run the file <b>main.py</b>. In the CLI, a table will appear with the data for investments.</h3>
