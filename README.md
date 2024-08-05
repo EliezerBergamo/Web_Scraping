@@ -71,7 +71,7 @@
     <h2>Features</h2>
     <p>The main features of the application are:</p>
     <ul>
-      <li>Manipulate data to serve as a guide for investments in real estate funds/li>
+      <li>Manipulate data to serve as a guide for investments in real estate funds</li>
     </ul>
   </div>
 
